@@ -1,8 +1,8 @@
 package greetings
 
 import (
-  "fmt",
-  "errors",
+  "fmt"
+  "errors"
 )
 
 // Hello returns a greeting for the named person.
